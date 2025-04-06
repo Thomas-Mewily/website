@@ -1,29 +1,34 @@
 {
-    "idleHeartbeats": 4382,
-    "navigatingHeartbeats": 1173,
-    "totalCodingHeartbeats": 5121,
+    "idleHeartbeats": 6097,
+    "navigatingHeartbeats": 1456,
+    "totalCodingHeartbeats": 9991,
     "languageHeartbeats": {
         "jsonc": 47,
-        "toml": 2571,
-        "markdown": 739,
-        "html": 1326,
-        "scminput": 421,
+        "toml": 2616,
+        "markdown": 4521,
+        "html": 2283,
+        "scminput": 507,
         "yaml": 17
     },
     "fileHeartbeats": {
         ".vscode/settings.json": 47,
-        "hugo.toml": 2571,
-        "content/posts/my-first-post.md": 101,
-        "content/about.md": 420,
+        "hugo.toml": 2616,
+        "content/posts/my-first-post.md": 2648,
+        "content/about.md": 789,
         "layouts/_default/single.html": 57,
         "themes/tailwind/layouts/_default/single.html": 256,
         "content/games/_index.md": 136,
-        "git\\scm0\\input": 421,
+        "git\\scm0\\input": 507,
         "layouts/partials/footer.html": 212,
         "layouts/partials/social_media.html": 522,
         "layouts/partials/custom_footer.html": 120,
         "themes/tailwind/layouts/partials/social_media.html": 159,
         ".github/workflows/hugo.yaml": 17,
-        "content/games/my-first-game.md": 82
+        "content/games/my-first-game.md": 82,
+        "content/games/mario_maker_v6.md": 539,
+        "layouts/shortcodes/scratch.html": 957,
+        "content/projects/my-first-project.md": 127,
+        "README.md": 47,
+        "content/games/chessito.md": 153
     }
 }
