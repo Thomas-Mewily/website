@@ -1,13 +1,13 @@
 {
-    "idleHeartbeats": 9722,
-    "navigatingHeartbeats": 2361,
-    "totalCodingHeartbeats": 15629,
+    "idleHeartbeats": 10341,
+    "navigatingHeartbeats": 2371,
+    "totalCodingHeartbeats": 15862,
     "languageHeartbeats": {
         "jsonc": 47,
         "toml": 3399,
-        "markdown": 8547,
+        "markdown": 8655,
         "html": 3009,
-        "scminput": 610,
+        "scminput": 735,
         "yaml": 17
     },
     "fileHeartbeats": {
@@ -18,7 +18,7 @@
         "layouts/_default/single.html": 57,
         "themes/tailwind/layouts/_default/single.html": 256,
         "content/games/_index.md": 561,
-        "git\\scm0\\input": 610,
+        "git\\scm0\\input": 735,
         "layouts/partials/footer.html": 212,
         "layouts/partials/social_media.html": 522,
         "layouts/partials/custom_footer.html": 120,
@@ -41,6 +41,7 @@
         "content/projects/conkestator/my-first-project.md": 296,
         "content/projects/conkestator/index.md": 457,
         "content/projects/hexga.md": 280,
-        "content/pixel_art.md": 268
+        "content/pixel_art.md": 359,
+        "content/games/conkestator/index.md": 17
     }
 }

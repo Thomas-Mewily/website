@@ -3,8 +3,8 @@ date = "2019-10-09T00:00:00+02:00"
 draft = false
 title = "Conkestator"
 toc = false
-tags = ["strategy", "boardgame", "strategy", "multiplayer"]
-categories = ["android", "game"]
+tags = ["strategy", "boardgame", "strategy", "multiplayer", "android"]
+categories = ["game"]
 description = "Conkestator is a turn-based strategy game on Android with a multiplayer mode."
 image = "thumbnail.png"
 +++
