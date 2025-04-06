@@ -60,6 +60,23 @@ author = "Mewily"
     enabled = true
     name = "Itch.io"
     link = "https://mewily.itch.io/"
-    #icon = "images/itchio.png"
     icon = "brand-itchio"
 
+  [[params.social_media.items]]
+    enabled = true
+    title = 'Github'
+    icon = 'brand-github'
+    link = 'https://github.com/Thomas-Mewily'
+
+
+[privacy]
+  [privacy.youTube]
+    disable = false
+    privacyEnhanced = false
+
+ignoreLogs = ["warning-goldmark-raw-html"]
+
+
+[markup]
+  [markup.goldmark.renderer]
+      unsafe = true

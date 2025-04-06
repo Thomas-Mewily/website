@@ -1,28 +1,29 @@
 {
-    "idleHeartbeats": 4085,
-    "navigatingHeartbeats": 1111,
-    "totalCodingHeartbeats": 4119,
+    "idleHeartbeats": 4382,
+    "navigatingHeartbeats": 1173,
+    "totalCodingHeartbeats": 5121,
     "languageHeartbeats": {
         "jsonc": 47,
-        "toml": 2048,
-        "markdown": 310,
+        "toml": 2571,
+        "markdown": 739,
         "html": 1326,
-        "scminput": 371,
+        "scminput": 421,
         "yaml": 17
     },
     "fileHeartbeats": {
         ".vscode/settings.json": 47,
-        "hugo.toml": 2048,
+        "hugo.toml": 2571,
         "content/posts/my-first-post.md": 101,
-        "content/about.md": 73,
+        "content/about.md": 420,
         "layouts/_default/single.html": 57,
         "themes/tailwind/layouts/_default/single.html": 256,
         "content/games/_index.md": 136,
-        "git\\scm0\\input": 371,
+        "git\\scm0\\input": 421,
         "layouts/partials/footer.html": 212,
         "layouts/partials/social_media.html": 522,
         "layouts/partials/custom_footer.html": 120,
         "themes/tailwind/layouts/partials/social_media.html": 159,
-        ".github/workflows/hugo.yaml": 17
+        ".github/workflows/hugo.yaml": 17,
+        "content/games/my-first-game.md": 82
     }
 }
