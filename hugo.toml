@@ -49,13 +49,17 @@ author = "Mewily"
     weight = 30
 
 [params.social_media]
+    [[params.social_media.items]]
+    enabled = true
+    name = "YouTube"
+    link = "https://www.youtube.com/@thomasmewily4012"
+    icon = "brand-youtube"
 
-[[params.social_media.items]]
-  name = "YouTube"
-  url = "https://www.youtube.com/@thomasmewily4012"
-  icon = "images/youtube.png"
 
-[[params.social_media.items]]
-  name = "Itch.io"
-  url = "https://mewily.itch.io/"
-  icon = "images/itchio.png"
+    [[params.social_media.items]]
+    enabled = true
+    name = "Itch.io"
+    link = "https://mewily.itch.io/"
+    #icon = "images/itchio.png"
+    icon = "brand-itchio"
+
