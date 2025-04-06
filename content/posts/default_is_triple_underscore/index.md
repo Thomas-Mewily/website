@@ -1,12 +1,14 @@
 +++
-date = '2025-04-06T10:19:22+02:00'
+date = "2025-04-06T10:19:22+02:00"
 draft = false
-title = 'Default is triple underscore'
-tags = ['default', 'syntax', 'sugar syntax']
-categories = ['development', 'rust', 'crate']
+title = "Default is triple underscore"
+tags = ["default", "syntax", "sugar syntax"]
+categories = ["programming", "rust"]
+description = "Use `___()` instead of `Default::default()`"
+image = "thumbnail.png"
 +++
 
-# The "Problem"
+# Getting a Default value in Rust
 
 I write a lot of Rust code, and one things that annoy me is that you need a lot of keyboard press to get the default value of a structure/enum using the [Default trait](https://doc.rust-lang.org/std/default/trait.Default.html), and it take a lot of space on the screen.
 
@@ -43,7 +45,7 @@ let p = Player { hp: 100, lvl: Default::default(), damage: Default::default(), i
 
 Here I don't use the `#[derive(Default)]` macro because the default `hp` should be 100, only the rest use the default value.
 
-# Simple solution
+# Less typing and screen space wasted
 
 So I was tired of those really long line, so I made this [crate, *Default is triple underscore*](https://crates.io/crates/default_is_triple_underscore). This crate is the manifestation of the lazy developer that I am to write less characters, and keep the code more easily readable.
 
@@ -104,3 +106,5 @@ You can add the crate with the cargo command  `cargo add default_is_triple_under
 - [git repos](https://github.com/Thomas-Mewily/triple_underscore_for_default)
 
 - [This post was inspired by "Could we have `std::default()`?"](https://internals.rust-lang.org/t/could-we-have-std-default/8756)
+
+This is also my first post, that why it is "simple" and not too technical.

@@ -1,13 +1,13 @@
 {
-    "idleHeartbeats": 6097,
-    "navigatingHeartbeats": 1456,
-    "totalCodingHeartbeats": 9991,
+    "idleHeartbeats": 8423,
+    "navigatingHeartbeats": 1923,
+    "totalCodingHeartbeats": 13190,
     "languageHeartbeats": {
         "jsonc": 47,
-        "toml": 2616,
-        "markdown": 4521,
-        "html": 2283,
-        "scminput": 507,
+        "toml": 2788,
+        "markdown": 6776,
+        "html": 3009,
+        "scminput": 553,
         "yaml": 17
     },
     "fileHeartbeats": {
@@ -18,7 +18,7 @@
         "layouts/_default/single.html": 57,
         "themes/tailwind/layouts/_default/single.html": 256,
         "content/games/_index.md": 136,
-        "git\\scm0\\input": 507,
+        "git\\scm0\\input": 553,
         "layouts/partials/footer.html": 212,
         "layouts/partials/social_media.html": 522,
         "layouts/partials/custom_footer.html": 120,
@@ -29,6 +29,14 @@
         "layouts/shortcodes/scratch.html": 957,
         "content/projects/my-first-project.md": 127,
         "README.md": 47,
-        "content/games/chessito.md": 153
+        "content/games/chessito.md": 198,
+        "content/games/mario_maker_v6/index.md": 559,
+        "themes/tailwind/layouts/_default/list.html": 342,
+        "content/games/chessito/index.md": 1226,
+        "themes/tailwind/layouts/partials/block/image.html": 66,
+        "content/posts/default_is_triple_underscore.md": 115,
+        "themes/tailwind/exampleSite/config/_default/params.toml": 172,
+        "content/posts/default_is_triple_underscore/index.md": 310,
+        "layouts/shortcodes/icon.html": 318
     }
 }

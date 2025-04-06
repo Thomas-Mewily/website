@@ -1,13 +1,18 @@
 +++
-date = '2018-04-17T00:00:00+02:00'
+date = "2018-04-17T00:00:00+02:00"
 draft = false
-title = 'Mario Maker V6 on Scratch'
+title = "Mario Maker V6 on Scratch"
 toc = false
-tags = ['scratch', 'mario', 'maker', 'platformer']
-categories = ['scratch', 'game']
+tags = ["scratch", "mario", "maker", "platformer"]
+categories = ["scratch", "game"]
+description = "A Mario Maker like game where you can create and share your level"
+image = "thumbnail.png"
 +++
 
+
+
 ## About
+
 
 This is a mario maker / platformer game I made when I was 15 using Scratch.
 
@@ -40,3 +45,9 @@ This is a mario maker / platformer game I made when I was 15 using Scratch.
 - The game is a beta/not finished (and will probably never will), check the Scratch description for more information.
 
 - A more complete version of the game made by [ego-lay_atman-bay](https://scratch.mit.edu/users/ego-lay_atman-bay/) is [can be played here](https://scratch.mit.edu/projects/424176481/).
+
+<!--
+![Mario Screenshot](title.png)
+![Mario Screenshot](editor.png)
+![Mario Screenshot](inventory.png)
+-->

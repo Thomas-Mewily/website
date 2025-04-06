@@ -11,6 +11,9 @@ author = "Mewily"
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
 
+  keywords = "mewily, thomas, tstd, scratch, programming, games, rust"
+  subtitle = ""
+
 [params.header]
     logo = "images/logo.png"
     title = ""
