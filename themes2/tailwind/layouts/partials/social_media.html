@@ -1,0 +1,26 @@
+{{ with $.Site.Params.social_media.items }}
+  {{ range . }}
+  {{ if .enabled }}
+    <a href="{{ .link | safeURL | default "#" }}" target="_blank" title="{{ .title }}" class="flex flex-row mr-2">
+      <span class="hidden">{{ .title }}</span>
+      <i class="social-icon-container flex-none">
+        {{ partial "icon.html" .icon }}
+      </i>
+    </a>
+  {{ end }}
+  {{ end }}
+{{ end }}
+
+<!-- Embedded CSS to Normalize Icon Sizes -->
+<style>
+  .social-icon-container img {
+    width: 24px; /* Adjust the width to desired icon size */
+    height: 24px; /* Adjust the height to desired icon size */
+    object-fit: contain; /* Ensures icons maintain their aspect ratio */
+  }
+
+  .social-icon-container svg {
+    width: 24px; /* Adjust the width for SVG icons */
+    height: 24px; /* Adjust the height for SVG icons */
+  }
+</style>
