@@ -1,0 +1,22 @@
+{
+    "idleHeartbeats": 621,
+    "navigatingHeartbeats": 118,
+    "totalCodingHeartbeats": 897,
+    "languageHeartbeats": {
+        "jsonc": 47,
+        "toml": 243,
+        "markdown": 254,
+        "html": 313,
+        "scminput": 40
+    },
+    "fileHeartbeats": {
+        ".vscode/settings.json": 47,
+        "hugo.toml": 243,
+        "content/posts/my-first-post.md": 45,
+        "content/about.md": 73,
+        "layouts/_default/single.html": 57,
+        "themes/tailwind/layouts/_default/single.html": 256,
+        "content/games/_index.md": 136,
+        "git\\scm0\\input": 40
+    }
+}
