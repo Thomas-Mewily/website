@@ -1,6 +1,8 @@
-baseURL = 'https://example.org/'
+#baseURL = 'https://thomas-mewily.github.io/website/'
+baseURL = "http://localhost:1313/"
+
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Mewily Website'
 theme = "tailwind"
 author = "Mewily"
 
@@ -8,6 +10,14 @@ author = "Mewily"
   # dir name of your blog content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
+
+[params.header]
+    logo = "images/logo.png"
+    title = ""
+
+[params.footer]
+    since = 2025
+    poweredby = true
 
 [caches]
   [caches.images]
@@ -26,7 +36,7 @@ author = "Mewily"
     url = "/about/"
     weight = 100
 
-[[menu.main]]
+  [[menu.main]]
     identifier = "games"
     name = "Games"
     url = "/games/"
@@ -37,3 +47,15 @@ author = "Mewily"
     name = "Projects"
     url = "/projects/"
     weight = 30
+
+[params.social_media]
+
+[[params.social_media.items]]
+  name = "YouTube"
+  url = "https://www.youtube.com/@thomasmewily4012"
+  icon = "images/youtube.png"
+
+[[params.social_media.items]]
+  name = "Itch.io"
+  url = "https://mewily.itch.io/"
+  icon = "images/itchio.png"
