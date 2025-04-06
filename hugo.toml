@@ -11,8 +11,13 @@ author = "Mewily"
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
 
-  keywords = "mewily, thomas, tstd, scratch, programming, games, rust"
+  keywords = "mewily, tstd, scratch, programming, games, rust"
   subtitle = ""
+
+
+[params.author]
+  name = "Thomas Mewily"
+  email = "thomas.mewily@gmail.com"
 
 [params.header]
     logo = "images/logo.png"
@@ -29,37 +34,44 @@ author = "Mewily"
 [menu]
   [[menu.main]]
     identifier = "blog"
-    name = "Blog"
+    name = "Blog 💬"
     url = "/posts/"
     weight = 20
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "About 🤫"
     url = "/about/"
     weight = 100
 
   [[menu.main]]
     identifier = "games"
-    name = "Games"
+    name = "Games 👾"
     url = "/games/"
     weight = 20
 
+
+#  [[menu.main]]
+#    identifier = "projects"
+#    name = "Projects 💻"
+#    url = "/projects/"
+#    weight = 30
+
   [[menu.main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/projects/"
+    identifier = "pixel art"
+    name = "Art 🎨"
+    url = "/pixel_art/"
     weight = 30
 
 [params.social_media]
-    [[params.social_media.items]]
+  [[params.social_media.items]]
     enabled = true
     name = "YouTube"
     link = "https://www.youtube.com/@thomasmewily4012"
     icon = "brand-youtube"
 
 
-    [[params.social_media.items]]
+  [[params.social_media.items]]
     enabled = true
     name = "Itch.io"
     link = "https://mewily.itch.io/"

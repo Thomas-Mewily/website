@@ -1,15 +1,15 @@
 +++
-date = "2018-04-17T00:00:00+02:00"
+date = "2024-06-25T00:00:00+02:00"
 draft = false
 title = "Chessito"
 toc = false
-tags = ["game", "chess", "boardgame", "rust"]
+tags = ["game", "chess", "boardgame", "strategy", "rust"]
 categories = ["game", "rust"]
 description = "A Chess inspired game with custom game rule"
 image = "thumbnail.png"
 +++
 
-<iframe frameborder="0" src="https://itch.io/embed/2780275?bg_color=0a7318&amp;link_color=f8fa6b&amp;border_color=054078" width="552" height="167"><a href="https://mewily.itch.io/chessito">ChessIto by Mewily</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/2780275?bg_color=0a7318&amp;link_color=f8fa6b&amp;border_color=054078" width="552" height="167"><a href="https://mewily.itch.io/chessito">ChessIto by Mewily.</a></iframe>
 
 Loading this game can take some time.
 
