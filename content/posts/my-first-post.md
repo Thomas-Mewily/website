@@ -1,12 +1,12 @@
 +++
 date = '2025-04-06T10:19:22+02:00'
 draft = false
-title = 'My First Post'
+title = 'My First Post 2'
 tags = ['hugo', 'tailwind', 'blogging']
 categories = ['development', 'web']
 +++
 
-
+2222
 This is **bold** text, and this is *emphasized* text.
 
 Visit the [Hugo](https://gohugo.io) website!

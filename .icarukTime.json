@@ -1,26 +1,26 @@
 {
-    "idleHeartbeats": 3680,
-    "navigatingHeartbeats": 1037,
-    "totalCodingHeartbeats": 3908,
+    "idleHeartbeats": 3987,
+    "navigatingHeartbeats": 1094,
+    "totalCodingHeartbeats": 4048,
     "languageHeartbeats": {
         "jsonc": 47,
         "toml": 2048,
-        "markdown": 254,
-        "html": 1281,
-        "scminput": 278
+        "markdown": 256,
+        "html": 1326,
+        "scminput": 371
     },
     "fileHeartbeats": {
         ".vscode/settings.json": 47,
         "hugo.toml": 2048,
-        "content/posts/my-first-post.md": 45,
+        "content/posts/my-first-post.md": 47,
         "content/about.md": 73,
         "layouts/_default/single.html": 57,
         "themes/tailwind/layouts/_default/single.html": 256,
         "content/games/_index.md": 136,
-        "git\\scm0\\input": 278,
+        "git\\scm0\\input": 371,
         "layouts/partials/footer.html": 212,
         "layouts/partials/social_media.html": 522,
         "layouts/partials/custom_footer.html": 120,
-        "themes/tailwind/layouts/partials/social_media.html": 114
+        "themes/tailwind/layouts/partials/social_media.html": 159
     }
 }
