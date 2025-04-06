@@ -9,6 +9,10 @@ author = "Mewily"
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [menu]
   [[menu.main]]
     identifier = "blog"

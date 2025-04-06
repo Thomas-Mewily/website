@@ -1,22 +1,22 @@
 {
-    "idleHeartbeats": 621,
-    "navigatingHeartbeats": 118,
-    "totalCodingHeartbeats": 897,
+    "idleHeartbeats": 727,
+    "navigatingHeartbeats": 121,
+    "totalCodingHeartbeats": 1039,
     "languageHeartbeats": {
         "jsonc": 47,
-        "toml": 243,
+        "toml": 244,
         "markdown": 254,
         "html": 313,
-        "scminput": 40
+        "scminput": 181
     },
     "fileHeartbeats": {
         ".vscode/settings.json": 47,
-        "hugo.toml": 243,
+        "hugo.toml": 244,
         "content/posts/my-first-post.md": 45,
         "content/about.md": 73,
         "layouts/_default/single.html": 57,
         "themes/tailwind/layouts/_default/single.html": 256,
         "content/games/_index.md": 136,
-        "git\\scm0\\input": 40
+        "git\\scm0\\input": 181
     }
 }
