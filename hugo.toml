@@ -66,14 +66,14 @@ author = "Mewily"
 [params.social_media]
   [[params.social_media.items]]
     enabled = true
-    name = "YouTube"
+    title = "YouTube"
     link = "https://www.youtube.com/@thomasmewily4012"
     icon = "brand-youtube"
 
 
   [[params.social_media.items]]
     enabled = true
-    name = "Itch.io"
+    title = "Itch.io"
     link = "https://mewily.itch.io/"
     icon = "brand-itchio"
 
