@@ -1,11 +1,11 @@
 {
-    "idleHeartbeats": 10341,
-    "navigatingHeartbeats": 2385,
-    "totalCodingHeartbeats": 15868,
+    "idleHeartbeats": 10350,
+    "navigatingHeartbeats": 2553,
+    "totalCodingHeartbeats": 16011,
     "languageHeartbeats": {
         "jsonc": 47,
         "toml": 3405,
-        "markdown": 8655,
+        "markdown": 8798,
         "html": 3009,
         "scminput": 735,
         "yaml": 17
@@ -28,7 +28,7 @@
         "content/games/mario_maker_v6.md": 539,
         "layouts/shortcodes/scratch.html": 957,
         "content/projects/my-first-project.md": 127,
-        "README.md": 47,
+        "README.md": 126,
         "content/games/chessito.md": 198,
         "content/games/mario_maker_v6/index.md": 559,
         "themes/tailwind/layouts/_default/list.html": 342,
@@ -42,6 +42,7 @@
         "content/projects/conkestator/index.md": 457,
         "content/projects/hexga.md": 280,
         "content/pixel_art.md": 359,
-        "content/games/conkestator/index.md": 17
+        "content/games/conkestator/index.md": 17,
+        "HELP.md": 64
     }
 }

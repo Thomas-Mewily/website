@@ -1,4 +1,18 @@
 
-use `hugo` to build the website
+```shell
+# build the website
+hugo
 
-- `hugo new content content/posts/title.md` to create content
+# have a preview
+hugo server
+
+
+# install
+# see: https://gohugo.io/installation/
+# on windows:
+winget install Hugo.Hugo.Extended
+
+
+# create some content
+hugo new content content/posts/title.md
+```
