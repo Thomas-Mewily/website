@@ -13,11 +13,11 @@ image = "thumbnail.png"
 
 A simple triangle rendered using WGPU and WebAssembly.
 
-## Play the Game
+## Observe the triangle
 
 <div style="text-align: center; margin: 40px 0;">
     <button id="play-button" style="padding: 15px 30px; font-size: 18px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; cursor: pointer; box-shadow: 0 4px 15px rgba(0,0,0,0.2); transition: all 0.3s ease;">
-        🎮 Play Triangle Game (Fullscreen)
+        Run in Fullscreen
     </button>
 </div>
 
