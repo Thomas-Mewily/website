@@ -36,13 +36,7 @@ author = "Mewily"
     identifier = "blog"
     name = "Blog 💬"
     url = "/posts/"
-    weight = 20
-
-  [[menu.main]]
-    identifier = "about"
-    name = "About 🤫"
-    url = "/about/"
-    weight = 100
+    weight = 10
 
   [[menu.main]]
     identifier = "games"
@@ -62,6 +56,18 @@ author = "Mewily"
     name = "Art 🎨"
     url = "/pixel_art/"
     weight = 30
+
+  [[menu.main]]
+    identifier = "test"
+    name = "Test 💻"
+    url = "/test/"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About 🤫"
+    url = "/about/"
+    weight = 50
 
 [params.social_media]
   [[params.social_media.items]]
