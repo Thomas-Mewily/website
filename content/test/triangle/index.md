@@ -11,7 +11,7 @@ image = "thumbnail.png"
 
 ## About
 
-A simple triangle rendered using WGPU and WebAssembly.
+A simple triangle rendered using [WGPU](https://crates.io/crates/wgpu) and [Winit](https://crates.io/crates/winit) in WebAssembly.
 
 ## Observe the triangle
 
