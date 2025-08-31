@@ -13,6 +13,12 @@ image = "thumbnail.png"
 
 A simple triangle rendered using [WGPU](https://crates.io/crates/wgpu) and [Winit](https://crates.io/crates/winit) in WebAssembly.
 
+Thanks to these examples for learning wgpu!
+
+- https://github.com/w4ngzhen/wgpu_winit_example
+
+- https://github.com/Foxicution/wgpu-template
+
 ## Observe the triangle
 
 <div style="text-align: center; margin: 40px 0;">
