@@ -14,6 +14,8 @@ image = "thumbnail.png"
 A simple pentagone rendered using [WGPU](https://crates.io/crates/wgpu) and [Winit](https://crates.io/crates/winit) in WebAssembly.
 You can rotate/zoom it using the arrow keys or the WASM.
 
+The code is based on [the Chapter 6 of Learn WGPU by Sotrh : Uniforms](https://github.com/sotrh/learn-wgpu/tree/master/code/beginner/tutorial6-uniforms).
+
 ## Run
 
 <div style="text-align: center; margin: 40px 0;">
